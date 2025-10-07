@@ -19,17 +19,17 @@ cd minimal-rag-v1
 ```
 ## 2. Create and activate a virtual environment
 ```
-python -m venv .venv
+python3 -m venv .venv
 source .venv/bin/activate     # macOS / Linux
 ```
 
 ## 3. Install dependencies
 ```
-pip install -U pip -r requirements.txt<br>
+pip install -U pip -r requirements.txt
 ```
 ### Install Ollama and pull models
 
-Download: https://ollama.com/download<br>
+Download: https://ollama.com/download
 
 In a terminal:<br>
 ```

@@ -29,7 +29,7 @@ pip install -U pip -r requirements.txt
 ```
 ### Install Ollama and pull models
 
-Download: https://ollama.com/download
+Download, install and run Ollama: https://ollama.com/download
 
 In a terminal:<br>
 ```
